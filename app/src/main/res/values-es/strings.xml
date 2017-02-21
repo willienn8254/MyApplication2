@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="saludo">BIENVENIDO</string>
+    <string name="boton">ENTRAR</string>
+</resources>
